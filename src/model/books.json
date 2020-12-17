@@ -1,0 +1,50 @@
+[
+    {
+        "title":"Digital Fortress",
+        "author":"Dan Brown",
+        "genre":"Thriller",
+        "image":"dig.jpg"
+    },
+    {
+        "title":"The Alchemist",
+        "author":"Paulo Coelho",
+        "genre":"Fantasy",
+        "image":"alc.jpg"
+    },
+    {
+        "title":"Rich Dad Poor Dad",
+        "author":"Robert Kiyosaki",
+        "genre":"Self-help",
+        "image":"rich.jpg"
+    },
+    {
+        "title":"The Da Vinci Code",
+        "author":"Dan Brown",
+       "genre":"Mystery",
+       "image":"davinci.jpg"
+    },
+    {
+       "title":"The girl in room 105",
+        "author":"Chetan Bhagat",
+       "genre":"Fiction",
+        "image":"girl.jpg"
+    },
+    {
+        "title":"The 3 mistakes of my life",
+        "author":"Chetan Bhagat",
+        "genre":"Drama",
+       "image":"3m.jpg"
+    },
+    {
+        "title":"Sapiens: A Brief History of Humankind",
+        "author":"Yuval Noah Harari",
+        "genre":"Non-Fiction",
+        "image":"sa.jpg"
+    },
+    {
+        "title":"The Theory of Everything",
+        "author":"Stephen Hawking",
+       "genre":"Science",
+        "image":"the.jpg"
+    }
+]

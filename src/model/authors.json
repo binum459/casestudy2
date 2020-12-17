@@ -1,0 +1,36 @@
+[{
+        
+    "author":"Dan Brown",
+    "genre":"Thriller",
+    "image":"dan.jpg"
+},
+{
+    
+    "author":"Paulo Coelho",
+   "genre":"Fantasy",
+    "image":"paulo.jpg"
+},
+{
+
+    "author":"Robert Kiyosaki",
+    "genre":"Self-help",
+    "image":"rob.jpg"
+},
+{
+    
+    "author":"Chetan Bhagat",
+    "genre":"Drama",
+    "image":"chet.jpg"
+},
+{
+    
+    "author":"Agatha Christie",
+    "genre":"Detective",
+    "image":"aga.jpg"
+},
+{
+    
+    "author":"J.K Rowling",
+    "genre":"Fantasy",
+    "image":"jk.jpg"
+}]
